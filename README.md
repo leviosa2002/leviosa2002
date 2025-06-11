@@ -5,13 +5,10 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=leviosa2002&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Followers-0-blue?style=social&logo=github" alt="GitHub Followers" />
-<img src="https://img.shields.io/badge/Stars-0-blue?style=social&logo=github" alt="GitHub Stars" />
-<!--- <img src="https://img.shields.io/github/followers/leviosa2002?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/leviosa2002?label=Stars&style=social" alt="GitHub Stars" />
-    --->
-  <img src="https://img.shields.io/badge/Open%20Source-❤️-red?style=flat&labelColor=black" alt="Open Source Love" />
+<img src="https://komarev.com/ghpvc/?username=leviosa2002&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/leviosa2002?label=Followers&style=social" alt="GitHub Followers" /> 
+<img src="https://img.shields.io/github/stars/leviosa2002?label=Stars&style=social" alt="GitHub Stars" />
+<img src="https://img.shields.io/badge/Open%20Source-❤️-red?style=flat&labelColor=black" alt="Open Source Love" />
 </div>
 
 ---
