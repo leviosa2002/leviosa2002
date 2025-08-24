@@ -80,7 +80,7 @@ const leviosa2002 = {
 
 ### 💻 Languages  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,matlab&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,matlab&theme=dark" alt="Languages" />
 </div>
 
 ### 📚 Libraries & Frameworks  
