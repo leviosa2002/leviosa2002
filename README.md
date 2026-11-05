@@ -1,178 +1,228 @@
-# 👋 Hey there, I'm Ankit Prasad!
+# 👋 Hey, I'm Ankit Prasad!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=00D4AA&center=true&vCenter=true&width=1000&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Data+%26+ML+Developer+%F0%9F%9A%80;Python+Wizard+%F0%9F%90%8D;3D+Animation+Creator+%F0%9F%8E%AC;Video+Editor+%F0%9F%8E%A5;Data+Analyst+%F0%9F%93%8A;AI+Enthusiast+%F0%9F%A4%96;Turning+Data+into+Magic+%E2%9C%A8;Creating+Visual+Stories+%F0%9F%8E%9E%EF%B8%8F;Always+Learning%2C+Always+Building+%F0%9F%94%A5;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2500&pause=700&color=00D4AA&center=true&vCenter=true&width=1000&lines=Software+Engineer+%F0%9F%92%BB;Backend+Developer+%F0%9F%9A%80;AI+Application+Developer+%F0%9F%A4%96;Building+Real-World+Software+Products;Python+%7C+Java+%7C+Spring+Boot;Exploring+LLMs+%26+AI+Integrations;Always+Learning%2C+Always+Building!" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header&text=&fontSize=0&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=header" width="100%" />
 </div>
-
-## 🌐 Connect with Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ankit-prasad-79452524a/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/ankit.prasad2002/?next=%2F">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" alt="Instagram" />
-  </a>
-
-🔗 [Visit Portfolio](https://portfolio-website-three-kappa-86.vercel.app/)
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=leviosa2002&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/leviosa2002?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" /> 
-  <img src="https://img.shields.io/github/stars/leviosa2002?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
-  <img src="https://img.shields.io/badge/Open%20Source-❤️-red?style=for-the-badge&labelColor=black" alt="Open Source Love" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 About Me
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F7931E&center=true&vCenter=true&width=800&lines=I'm+a+Data+%26+ML+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Building+smart%2C+data-driven+solutions;3D+Animation+%26+Video+Editing+Expert;Creating+stunning+visual+narratives;Passionate+about+Machine+Learning+%26+AI;Turning+ideas+into+scalable+applications;From+data+insights+to+visual+stories;Always+learning%2C+always+building" alt="About Me Typing" />
-</div>
+I'm a Software Engineer from India with hands-on industry experience building software applications, backend systems, AI-powered products, and interactive applications.
+
+I enjoy turning ideas into functional products — from developing REST APIs and integrating AI services to building full-stack applications and experimenting with intelligent automation.
+
+- 💻 Interested in Software Engineering, Backend Development & AI Applications.
+- 🤖 Experience working with LLM-powered applications and AI integrations.
+- ⚙️ Working with Python, Java, Spring Boot, React and modern web technologies.
+- 🔌 Interested in REST APIs, system integrations and scalable backend architectures.
+- 🎮 Experience contributing to mobile, web and game development projects.
+- 🌱 Continuously improving my DSA, system design, backend engineering and AI development skills.
+
+**Currently focused on:** Building reliable backend applications, AI-powered workflows and production-oriented software.
+
+## 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+  <a href="https://www.linkedin.com/in/ankit-prasad-79452524a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://portfolio-website-three-kappa-86.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:ankitprasad2022@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/leviosa2002">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
-## 💻 Developer Profile
+## 💼 Professional Experience
+
+### Software Engineer | AI & Application Development
+
+**Veriscribe Analytics & AI Pvt. Ltd.** | February 2026 – Present
+
+- Contributed to the development of AI-powered applications and digital products.
+- Worked on AstraMitra, an AI-powered Vedic astrology application across web and Android platforms.
+- Worked with frontend and backend components, API integrations and application workflows.
+- Contributed to interactive game development, debugging, testing and feature implementation.
+- Collaborated with developers to troubleshoot issues and improve application functionality.
+- Explored practical applications of LLMs and AI-powered workflows.
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,c,html,css" />
+</div>
+
+### Backend Development & APIs
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=spring,flask,django,nodejs,fastapi,mysql,postgres,mongodb,redis" />
+</div>
+
+- REST API Development
+- Backend Application Development
+- Authentication & Authorization
+- SQL & Database Management
+- API Integration
+- Backend Debugging
+
+### Frontend & Mobile Development
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,kotlin,androidstudio" />
+</div>
+
+### Artificial Intelligence & Machine Learning
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+</div>
+
+- LLM API Integration
+- AI-powered Applications
+- Prompt Engineering
+- AI Workflow Integration
+- Machine Learning
+- Computer Vision
+- Generative AI
+
+### Databases & Cloud
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,aws" />
+</div>
+
+### Development Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman" />
+</div>
+
+### Data Analytics
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="48" />
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="48" />
+</div>
+
+## 🚀 Featured Projects
+
+### 🤖 AstraMitra – AI-Powered Vedic Astrology Platform
+
+- Contributed to an AI-powered astrology application for web and Android.
+- Worked with AI integrations, application workflows and user-facing features.
+- Technologies: Next.js, React, TypeScript, Kotlin, PostgreSQL, Redis, LLM APIs.
+
+### 🏨 Hotel Management System
+
+- Full-stack hotel management application.
+- Backend development, REST APIs and authentication.
+- Technologies: Java, Spring Boot, React, MySQL, JWT.
+
+### 🚗 City Drive – 2D Driving Game
+
+- Contributed to the development of an interactive driving game.
+- Worked on game mechanics, gameplay features, maps and debugging.
+- Technologies: Unity, C#.
+
+### 🧠 Violence Detection Using YOLOv7
+
+- Computer vision project for violence detection.
+- Implemented an object detection-based approach.
+- Explored deployment on NVIDIA Jetson Orin Nano.
+- Presented at IEEE ASIANCON 2025.
+
+### 📊 Business Analytics & Data Visualization
+
+- Worked with datasets containing 5,000+ records.
+- Created interactive dashboards and business insights.
+- Technologies: Python, Excel, Power BI.
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=leviosa2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leviosa2002&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+### 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=leviosa2002&theme=tokyonight&hide_border=true" />
+</div>
+
+### 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leviosa2002&theme=tokyo-night&hide_border=true" width="100%" />
+</div>
+
+## 🎯 Current Learning Goals
+
+- Advanced Java & Spring Boot
+- Python Backend Development
+- Data Structures & Algorithms
+- System Design & Scalable Architectures
+- LLM Applications & AI Integrations
+- RAG, Tool Calling & AI Agents
+- Docker, Cloud & Deployment
+
+## 💡 A Little More About Me
 
 ```javascript
-const leviosa2002 = {
-  name: "Ankit Prasad",
-  role: "Data Analyst | Python & ML Developer | 3D Artist | Video Editor",
-  location: "India 🇮🇳",
-  currentFocus: [
-    "🧠 Machine Learning Models",
-    "📊 Data-Driven Insights",
-    "🎬 3D Animation & Visual Effects",
-    "🎥 Video Editing & Post-Production",
-    "🤖 AI-Powered Solutions"
-  ],
-  currentlyLearning: [
-    "🌐 MERN Stack",
-    "🔬 Advanced ML Algorithms",
-    "☁️ Cloud Services (AWS/GCP)",
-    "🐳 Docker & Kubernetes",
-    "🎨 Advanced 3D Modeling"
-  ],
-  lookingToCollaborate: "AI-Powered Recommendation Systems & Creative Projects",
-  helpWith: "Data Analysis | ML Model Building | 3D Animation | Video Editing | Web Development",
-  askMeAbout: "Data Science | Machine Learning | Python | 3D Animation | Video Editing | Web Dev",
-  contactMe: "ankitprasad2022@gmail.com",
-  funFact: "I can turn data into insights AND create stunning visuals! 🎨📊",
-  philosophy: "Data transforms chaos into clarity, creativity brings ideas to life 🚀"
+const ankit = {
+    name: "Ankit Prasad",
+    role: "Software Engineer",
+    location: "India 🇮🇳",
+
+    primaryInterests: [
+        "Software Engineering",
+        "Backend Development",
+        "AI Applications",
+        "System Integrations"
+    ],
+
+    languages: [
+        "Python",
+        "Java",
+        "JavaScript",
+        "TypeScript"
+    ],
+
+    frameworks: [
+        "Spring Boot",
+        "React",
+        "Next.js",
+        "Flask"
+    ],
+
+    currentlyExploring: [
+        "LLMs",
+        "AI Agents",
+        "RAG",
+        "System Design",
+        "Cloud Technologies"
+    ],
+
+    philosophy: "Build, learn, improve, repeat. 🚀"
 };
 ```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00D4AA&center=true&vCenter=true&width=600&lines=My+Technical+Superpowers+%E2%9A%A1;Tools+I+Use+to+Build+Magic+%F0%9F%AA%84" alt="Tech Stack Header" />
-</div>
-
-### 💻 Languages  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,matlab&theme=dark" alt="Languages" />
-</div>
-
-### 📚 Libraries & Frameworks  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,flask,django&theme=dark" alt="Frameworks" />
-</div>
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas"/>
-  <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.png" height="50" alt="Streamlit"/>
-</div>
-
-### ☁️ Cloud & Databases  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,aws&theme=dark" alt="Cloud & DB" />
-</div>
-
-### 📊 Data & BI Tools  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=azure&theme=dark" alt="Azure" />
-  <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" height="48" alt="Excel"/>
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" height="48" alt="Power BI"/>
-</div>
-
-### 🎨 Design & Creative  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,blender&theme=dark" alt="Design Tools" />
-  <img src="https://img.icons8.com/color/48/000000/canva.png" height="48" alt="Canva"/>
-  <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" height="48" alt="Premiere Pro"/>
-</div>
-
-### 🛠️ Development Tools  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Dev Tools" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=600&lines=My+Coding+Journey+%F0%9F%93%88;Stats+%26+Streaks+%F0%9F%94%A5" alt="GitHub Stats Header" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leviosa2002&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" width="500" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leviosa2002&hide=jupyter%20notebook&layout=compact&theme=dracula" />
-</div>
-
-### 📊 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=leviosa2002&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=F85149" alt="Contribution Graph" />
-</div>
-
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=leviosa2002&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
-
-## 🎮 Pacman Contribution Graph
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leviosa2002/leviosa2002/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leviosa2002/leviosa2002/output/pacman-contribution-graph-dark.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/leviosa2002/leviosa2002/output/pacman-contribution-graph-dark.svg">
-  </picture>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💡 Quote of the Day
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=%22Learning+never+exhausts+the+mind.%22+%E2%80%93+Leonardo+da+Vinci;%22Data+is+the+new+oil%2C+but+like+oil%2C+it+has+to+be+refined.%22;%22In+God+we+trust%2C+all+others+must+bring+data.%22+%E2%80%93+W.+Edwards+Deming;%22The+goal+is+to+turn+data+into+information%2C+and+information+into+insight.%22" alt="Inspirational Quote" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Thanks+for+visiting!&fontSize=24&fontColor=000000&animation=twinkling" width="100%" />
-</div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+Ankit+Prasad;Let's+connect+and+build+something+amazing+together!" alt="Footer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8C;Let's+Connect+%26+Build+Something+Amazing!+%F0%9F%9A%80" alt="Footer" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%" />
 </div>
